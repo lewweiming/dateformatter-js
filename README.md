@@ -20,3 +20,9 @@ date.setHours(17);
 date.setMinutes(42);
 console.log(DateFormatter.getTimeDiffString(date.getTime())); // Outputs: Today at 5:42PM
 ```
+
+## CDN
+
+```
+<script src="https://cdn.jsdelivr.net/gh/lewweiming/dateformatter-js@main/dateformatter.js"></script>
+```
